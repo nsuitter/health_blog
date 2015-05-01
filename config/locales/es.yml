@@ -1,7 +1,7 @@
 es:
   layouts:
     application:
-      home_link: "Casa"
+      home_link: "Início"
       about_link: "Acerca de"
       static_blog_link: "Blog estático"
       dynamic_blog_link: "Blog dinámico"
